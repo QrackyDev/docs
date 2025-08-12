@@ -22,34 +22,34 @@
             ]
           },
           {
-            "group": "Plugins",
+            "group": "Starter",
             "pages": [
-              "plugins/markdown",
-              "plugins/code",
-              "plugins/images",
-              "plugins/settings",
-              "plugins/navigation",
-              "plugins/reusable-snippets"
+              "starter/markdown",
+              "starter/code",
+              "starter/images",
+              "starter/settings",
+              "starter/navigation",
+              "starter/reusable-snippets"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Plugins",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Plugins",
             "pages": [
-              "api-reference/introduction"
+              "plugins/index"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "plugins/endpoint/get",
+              "plugins/endpoint/create",
+              "plugins/endpoint/delete",
+              "plugins/endpoint/webhook"
             ]
           }
         ]
