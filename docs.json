@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Plugins",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "plugins/markdown",
+              "plugins/code",
+              "plugins/images",
+              "plugins/settings",
+              "plugins/navigation",
+              "plugins/reusable-snippets"
             ]
           }
         ]
